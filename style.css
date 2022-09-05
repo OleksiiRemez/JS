@@ -1,0 +1,27 @@
+:root {
+  font-size: 16px;
+}
+
+* {
+  box-sizing: border-box;
+}
+
+body {
+  background-color: blue;
+  color: #ffffff;
+
+  margin: 0;
+  text-align: center;
+  /* padding: 2rem; */
+  font-family: Georgia, 'Times New Roman', Times, serif;
+  min-height: 100vh;
+}
+
+a {
+  color: #ffffff;
+  text-decoration: none;
+}
+
+a:hover {
+  color: #dc143c;
+}
