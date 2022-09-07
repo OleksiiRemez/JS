@@ -9,10 +9,9 @@
 body {
   background-color: blue;
   color: #ffffff;
-
   margin: 0;
   text-align: center;
-  /* padding: 2rem; */
+  padding: 1rem;
   font-family: Georgia, 'Times New Roman', Times, serif;
   min-height: 100vh;
 }
@@ -24,4 +23,8 @@ a {
 
 a:hover {
   color: #dc143c;
+}
+
+li {
+  list-style-type: none;
 }
